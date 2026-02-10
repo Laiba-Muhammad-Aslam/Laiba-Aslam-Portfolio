@@ -7,14 +7,14 @@ const projects = [
   {
     title: "MindPad",
     description: "Developed a full-stack Notes Web Application using the MERN STACK (MongoDB, Express.js, React.js, Node.js).",
-    image: "https://static.vecteezy.com/system/resources/previews/025/729/945/non_2x/note-taking-app-icon-in-illustration-vector.jpg",
+    image: "/mindmap.png",
     tags: ["React", "Node.js", "Express Js", "Mongodb", "Jest", "SonarQube"],
     github: "https://github.com/Laiba-Muhammad-Aslam/laiba-mern-10pshine",
   },
   {
     title: "Chatify",
     description: "Built Chatify, a ChatGPT-style conversational UI using React and Express, integrating the Gemini API and local storage to persist user conversations.",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdZ5xKqCX9cUKqFfXN8WCUHXtrbC_feltjWA&s",
+    image: "/chatify-img.png",
     tags: ["React", "Node.js", "Express", "Gemini Api"],
     github: "https://github.com/Laiba-Muhammad-Aslam/Chatify",
   },
@@ -28,7 +28,7 @@ const projects = [
   {
     title: "Google Job Search",
     description: "Developed a high-fidelity Google Job Search UI clone using React and Tailwind CSS",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spotify_icon.svg/3840px-Spotify_icon.svg.png",
+    image: "/googleJob.png",
     tags: ["React", "Tailwind CSS"],
     github: "https://github.com/Laiba-Muhammad-Aslam/google-job-search",
   },
