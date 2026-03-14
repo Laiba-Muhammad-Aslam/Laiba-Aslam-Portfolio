@@ -10,7 +10,7 @@ const education = [
     period: "2022 - 2026",
     focus: "Specialization in Distributed Systems & Machine Learning",
     achievements: [
-      "GPA: 3.9/4.0",
+      "GPA: 3.65/4.0",
     ],
   },
   {
